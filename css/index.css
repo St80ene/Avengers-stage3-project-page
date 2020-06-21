@@ -185,7 +185,11 @@ p {
 /* Making the Project text responsive*/
 @media screen and (max-width: 540px) {
   #h {
-    font-size: 3.5rem;
+    font-size: 2.7rem;
+  }
+  .anchor {
+    height: 58px;
+    width: 58px;
   }
 }
 .bt-size {
